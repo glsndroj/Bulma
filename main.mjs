@@ -11,11 +11,11 @@ import fs from "fs";
 // });
 
 // // Write
-// fs.writeFileSync("../readme.txt", "hi hi", "utf-8");
+fs.writeFileSync("./readme.txt", "pon pon", "utf-8");
 
 // Import( uur file dotor bgaa function import hj oruulj irj boldog, import {duudah function bichne hed ch bj boln} from './index.html(ene n import hiih file)')
-import { Numbers } from "../number.mjs";
-Numbers();
+// import { Numbers } from "./number.mjs";
+// Numbers();
 
 // Export(uur file dotor bgaa function export hiine, function ii urd export)
 
